@@ -1,0 +1,20 @@
+Monday
+Steak: 8 stars, 20 mins, $15, MAIN, [Beef]
+Roast Chicken: 6.3 stars, 60 mins, $24, MAIN, [Oil, Potato, Garlic, Chicken]
+Steak: 9.9 stars, 30 mins, $22.5, MAIN, [Beef, Pepper, Salt]
+Tuesday
+Roast Chicken: 6.3 stars, 60 mins, $24, MAIN, [Oil, Potato, Garlic, Chicken]
+Steak: 9.9 stars, 20 mins, $15, MAIN, [Beef]
+Beef Stew: 9.9 stars, 120 mins, $18, MAIN, [Beef, Salt, Pepper]
+Wednesday
+null
+null
+null
+Thursday
+null
+null
+null
+Friday
+null
+null
+null

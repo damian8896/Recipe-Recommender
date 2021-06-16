@@ -1,0 +1,7 @@
+Omelette: 8.0 stars, 10 mins, $5, STARTER, [Egg]
+Roast Chicken: 8.0 stars, 60 mins, $24, MAIN, [Oil, Potato, Garlic, Chicken]
+Beef Stew: 8.0 stars, 120 mins, $18, MAIN, [Beef, Salt, Pepper]
+Noodle Beef: 8 stars, 80 mins, $25, STARTER, [Noodles, MSG, Beef]
+Bolognese: 8.0 stars, 120 mins, $45, MAIN, [Oregano, Tomato, Pasta, Beef]
+Aglio Olio: 8.0 stars, 30 mins, $13, STARTER, [Pasta, Garlic, Salt, Pepper]
+Steak: 8.0 stars, 20 mins, $15, MAIN, [Beef]
